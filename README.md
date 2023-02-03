@@ -7,7 +7,7 @@
     - Detect any Subarray with sum 0
     - Count subarray with sum 0 (code pending)
 
-    HW: 
+    - HW: 
         - https://leetcode.com/problems/n-th-tribonacci-number/
         - https://www.codingninjas.com/codestudio/library/inverted-half-diamond-pattern
 
@@ -18,8 +18,10 @@
     - https://leetcode.com/problems/isomorphic-strings/ - [Code](/1.AdvancedProblemsOnArraysandObjects/isomorphic_strings.js)
     - https://leetcode.com/problems/rotate-array/
 
-    HW: 
+    - HW: 
+
         - https://leetcode.com/problems/reverse-string/solution/
+
         - https://www.codingninjas.com/codestudio/library/hollow-diamond-star-pattern
 
 - Feb 3 (2. Searching)
@@ -29,6 +31,8 @@
     - Upper Bound - [Code](/2.Searching/upper_bound.js)
     - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ - [Code](/2.Searching/Find_First_and_Last_Position_of_Element_in_Sorted_Array.js)
 
-    HW: 
+    - HW: 
+
         - https://leetcode.com/problems/missing-number/
+
         - https://leetcode.com/problems/reverse-integer/
