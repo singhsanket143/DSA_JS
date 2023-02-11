@@ -1,4 +1,4 @@
-## Total Problems -> 18
+## Total Problems -> 22
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -43,3 +43,12 @@
     - https://leetcode.com/problems/first-missing-positive/
     - Grid with directions on each cell, and check if we can reach bottom right
 
+- Feb 11
+    - https://leetcode.com/problems/find-peak-element/
+    - https://leetcode.com/problems/single-element-in-a-sorted-array/
+    - https://leetcode.com/problems/sqrtx/
+    - Ternary Search
+
+    - HW: 
+
+        - https://leetcode.com/problems/valid-palindrome/
