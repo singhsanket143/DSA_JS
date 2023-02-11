@@ -1,4 +1,4 @@
-## Total Problems -> 14
+## Total Problems -> 18
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -36,3 +36,10 @@
         - https://leetcode.com/problems/missing-number/
 
         - https://leetcode.com/problems/reverse-integer/
+
+- Feb 4 (3. Searching and Array problems)
+    - Array of [0, n-2], every element present once , once element present twice
+    - https://leetcode.com/problems/find-the-duplicate-number/ (Hare rabbit)
+    - https://leetcode.com/problems/first-missing-positive/
+    - Grid with directions on each cell, and check if we can reach bottom right
+
