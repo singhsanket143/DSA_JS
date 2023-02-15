@@ -1,4 +1,4 @@
-## Total Problems -> 22
+## Total Problems -> 30
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -52,3 +52,19 @@
     - HW: 
 
         - https://leetcode.com/problems/valid-palindrome/
+
+- Feb 13
+    - https://www.interviewbit.com/problems/painters-partition-problem/
+    - Not a triangle
+    - https://leetcode.com/problems/intersection-of-two-arrays-ii/
+    - https://leetcode.com/problems/intersection-of-two-arrays/
+
+- Feb 15 (6. Searching)
+    - https://leetcode.com/problems/median-of-two-sorted-arrays/
+    - https://www.spoj.com/problems/AGGRCOW/
+    - https://www.spoj.com/problems/ABCDEF/
+    - printing copies
+
+    - HW: 
+        - Book Allocation
+        - Median of two sorted arrays
