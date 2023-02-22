@@ -1,4 +1,4 @@
-## Total Problems -> 30
+## Total Problems -> 33
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -68,3 +68,18 @@
     - HW: 
         - Book Allocation
         - Median of two sorted arrays
+
+- Feb 20 (7. Arrays)
+    - Subsets iterative
+    - Subsets recursive
+    - Get ith bit
+
+    - HW: 
+        - Given a number x, set the ith bit of x to 1. Ex: x = 5 (101), i = 1, ans -> 7(111)
+        - 
+
+- Feb 22 (8. Counting sort)
+    - counting sort
+    - counting sort for negative (axis shift)
+    - array partition (https://leetcode.com/problems/array-partition/submissions/)
+    
