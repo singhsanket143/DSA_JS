@@ -1,4 +1,4 @@
-## Total Problems -> 33
+## Total Problems -> 34
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -83,3 +83,7 @@
     - counting sort for negative (axis shift)
     - array partition (https://leetcode.com/problems/array-partition/submissions/)
     
+- Feb 24 (9. Searching extra ques)
+    - kids_racing
+
+    - HW: [Assignment](/9.%20Searching%20extra%20ques/HW.md)
