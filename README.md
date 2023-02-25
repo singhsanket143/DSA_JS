@@ -1,4 +1,4 @@
-## Total Problems -> 34
+## Total Problems -> 39
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -87,3 +87,14 @@
     - kids_racing
 
     - HW: [Assignment](/9.%20Searching%20extra%20ques/HW.md)
+
+- Feb 25 (10. Linked Lists)
+    - insert at head
+    - insert at tail
+    - remove at head
+    - remove at tail
+    - display
+
+    - HW 
+        - https://leetcode.com/problems/set-matrix-zeroes/
+        - https://leetcode.com/problems/rotate-image/
