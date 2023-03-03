@@ -1,4 +1,4 @@
-## Total Problems -> 39
+## Total Problems -> 46
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -98,3 +98,12 @@
     - HW 
         - https://leetcode.com/problems/set-matrix-zeroes/
         - https://leetcode.com/problems/rotate-image/
+
+- Mar 3 (10. Linked List)
+    - insert at
+    - remove at
+    - insert at head dll
+    - remove at head dll
+    - insert at tail dll
+    - remove at tail dll
+    - display dll

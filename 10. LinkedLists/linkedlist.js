@@ -113,6 +113,23 @@ function removeAt(head, i) {
     return head;
 }
 
+function midNode(head) {
+    /**
+     * https://leetcode.com/problems/middle-of-the-linked-list/
+     * Time: O(N)
+     * Space: O(1)
+     */
+    if(head == null) return null;
+    let slow = head;
+    let fast = head;
+    while(fast.next != null && fast.next.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    if(fast.next == null) return slow
+    else return slow.next;
+};
+
 let head = null; // when the linked list is empty head is null
 
 head = addAtHead(head, 10); // 10->
