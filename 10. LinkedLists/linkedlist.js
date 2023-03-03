@@ -40,6 +40,28 @@ function addAtTail(head, data) {
     return head;
 }
 
+function addAt(head, i, data) { // assume that i will be always less than ll length
+    /**
+     * Time: O(n)
+     */
+    if(head == null) {
+        return addAtHead(head, data);
+    }
+    let temp = head;
+    let count = 0;
+    while(count < i-1) {
+        temp = temp.next;
+        count += 1;
+    }
+    // temp points at the i-1th node
+    let prevI = temp.next;
+
+    let newNode = createNode(data);
+    temp.next = newNode;
+    newNode.next = prevI;
+    return head;
+}
+
 function removeHead(head) {
     if(head == null) return null; // if linked list is empty no need for ay operation
     let newHead = head.next; // store the access of the new head to be made
@@ -65,6 +87,32 @@ function removeTail(head) {
     return head;
 }
 
+function removeAt(head, i) {
+    if(head == null) {
+        return head;
+    }
+    if(head.next == null) {
+        // single node in the list
+        return null;
+    }
+    let temp = head;
+    let count = 0;
+    while(temp.next != null && count < i-1) {
+        temp = temp.next;
+        count += 1;
+    }
+
+    if(temp.next == null && count <= i-1) { // i is greater than length of ll
+        return head;
+    }
+    // temp points at the i-1th node
+    let nodeToBeRemoved = temp.next;
+    let nextOfRemoved = temp.next.next;
+    temp.next = nextOfRemoved;
+    nodeToBeRemoved.next = null;
+    return head;
+}
+
 let head = null; // when the linked list is empty head is null
 
 head = addAtHead(head, 10); // 10->
@@ -76,9 +124,5 @@ head = addAtTail(head, 100);
 head = addAtTail(head, 90);
 
 display(head);
-
-head = removeHead(head);
-head = removeHead(head);
-head = removeTail(head);
-head = removeTail(head);
+head = removeAt(head, 9);
 display(head);
