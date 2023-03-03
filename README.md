@@ -1,4 +1,4 @@
-## Total Problems -> 46
+## Total Problems -> 47
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -107,3 +107,8 @@
     - insert at tail dll
     - remove at tail dll
     - display dll
+    - mid node
+
+    - HW 
+        -  try to implement circular ll
+        - implement addAt, removeAt in dll
