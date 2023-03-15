@@ -1,4 +1,4 @@
-## Total Problems -> 47
+## Total Problems -> 50
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -112,3 +112,8 @@
     - HW 
         -  try to implement circular ll
         - implement addAt, removeAt in dll
+
+- Mar 15 (11. Stacks)
+    - Valid Parenthesis
+    - insert at bottom
+    - reverse
