@@ -1,4 +1,4 @@
-## Total Problems -> 50
+## Total Problems -> 55
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -117,3 +117,13 @@
     - Valid Parenthesis
     - insert at bottom
     - reverse
+
+- Mar 17 (12. Linked Lists)
+    - Reverse LL - Data iterative
+    - Reverse LL - Pointer Iterative
+    - Reverse LL - Pointer recursive
+    - Reverse Ll - Data recursive
+    - Palindrome LL
+
+    HW
+        - https://leetcode.com/problems/add-two-numbers/
