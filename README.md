@@ -1,4 +1,4 @@
-## Total Problems -> 55
+## Total Problems -> 61
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -127,3 +127,13 @@
 
     HW
         - https://leetcode.com/problems/add-two-numbers/
+
+- Mar 18 (13. Classes and objects)
+    - Stacks using arrays
+    - complex number
+
+- Mar 20 (14. Stacks and next greater)
+    - NGE
+    - PGE
+    - NSE
+    - PSE
