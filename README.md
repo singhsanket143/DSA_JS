@@ -1,4 +1,4 @@
-## Total Problems -> 61
+## Total Problems -> 63
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -137,3 +137,10 @@
     - PGE
     - NSE
     - PSE
+    - stockspan
+    - https://leetcode.com/problems/sum-of-subarray-minimums/
+
+    - HW
+        - code https://leetcode.com/problems/sum-of-subarray-minimums/
+        - https://leetcode.com/problems/next-greater-element-i/
+        - PGE, NSE, PSE
