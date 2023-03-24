@@ -1,4 +1,4 @@
-## Total Problems -> 63
+## Total Problems -> 70
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -144,3 +144,19 @@
         - code https://leetcode.com/problems/sum-of-subarray-minimums/
         - https://leetcode.com/problems/next-greater-element-i/
         - PGE, NSE, PSE
+
+- Mar 22 (15. Queues)
+    - Queues using ll
+    HW
+        - Implement deque using dll
+
+- Mar 24 (16. Queues)
+    - Stack using queue push eff
+    - Stack using queue pop eff
+    - Queue using stack push eff
+    - Queue using stack pop eff
+    - First non repeating char
+    - reverse a queue
+
+    - HW
+        implement stack using queue and queue using stack

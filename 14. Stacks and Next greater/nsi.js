@@ -8,8 +8,8 @@ function nge(arr) {
     let st = [];
     st.push(0);
     for(let i = 1; i < n; i++) {
-        while(st.length > 0 && arr[i] > arr[st[st.length - 1]]) {
-            output[st[st.length - 1]] = arr[i];
+        while(st.length > 0 && arr[i] <= arr[st[st.length - 1]]) {
+            output[st[st.length - 1]] = i;
             st.pop();
         }
         st.push(i);
@@ -17,7 +17,7 @@ function nge(arr) {
     }
     while(st.length > 0) {
         let topOfStack = st[st.length - 1];
-        output[topOfStack] = -1;
+        output[topOfStack] = arr.length;
         st.pop();
     }
     return output;
