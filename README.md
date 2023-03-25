@@ -1,4 +1,4 @@
-## Total Problems -> 70
+## Total Problems -> 73
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -160,3 +160,12 @@
 
     - HW
         implement stack using queue and queue using stack
+        - https://leetcode.com/problems/implement-stack-using-queues/
+
+- Mar 25 (17, Problems on stacks)
+    - Histogram
+    - Maximal area rectangle
+    - Remove duplicates string
+
+    HW 
+        - https://leetcode.com/problems/number-of-valid-subarrays/
