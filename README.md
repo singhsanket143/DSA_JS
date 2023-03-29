@@ -1,4 +1,4 @@
-## Total Problems -> 73
+## Total Problems -> 79
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -169,3 +169,11 @@
 
     HW 
         - https://leetcode.com/problems/number-of-valid-subarrays/
+
+- Mar 29 (18. Linked list problems)
+    - Add 2 numbers
+    - Add 2 numbers 2
+    - Remove kth node from last
+    - Merge sorted list
+    - reorder list
+    - intersection of two lists
