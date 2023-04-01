@@ -1,4 +1,4 @@
-## Total Problems -> 79
+## Total Problems -> 90
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -177,3 +177,18 @@
     - Merge sorted list
     - reorder list
     - intersection of two lists
+
+- Mar 31
+    - Sliding window
+    - gas pump
+
+- Apr 1
+    - preorder
+    - post order
+    - inorder
+    - sum of bt
+    - max in bt
+    -  min in bt
+    - search in bt
+    - max depth
+    - symmetric tree
