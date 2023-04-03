@@ -1,4 +1,4 @@
-## Total Problems -> 90
+## Total Problems -> 100
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -192,3 +192,17 @@
     - search in bt
     - max depth
     - symmetric tree
+
+- Apr 3 (21. BT BST)
+    - Level order
+    - level order level wise
+    - level order level wise 2
+    - avg of levels
+    - zig zag traversal
+    - Right view level order
+    - Right view preorder reverse
+    - left view
+    - isbst inorder
+    - isbst using min max
+
+    HW: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
