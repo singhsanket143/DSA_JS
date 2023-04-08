@@ -1,4 +1,4 @@
-## Total Problems -> 100
+## Total Problems -> 110
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -206,3 +206,17 @@
     - isbst using min max
 
     HW: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
+- Apr 7 (21. BT BST)
+    - Vertical order traversal
+    - Top view
+    - bottom view
+    - boundary
+    - preorder of bst print lead
+    
+- Apr 8 (21. Bt BST)
+    - Greater sum tree
+    - Path to x
+    - LCA
+    - Min dist between 2 nodes
+    - Pre + in -> bST
