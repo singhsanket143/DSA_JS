@@ -1,4 +1,4 @@
-## Total Problems -> 110
+## Total Problems -> 113
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -220,3 +220,11 @@
     - LCA
     - Min dist between 2 nodes
     - Pre + in -> bST
+
+ - Apr 10 (Hashing)
+ 	- Min window with no repeating substring
+ 	- min window of t in s
+ 	- Rabbit in forst
+
+ 	HW
+ 		https://leetcode.com/problems/palindrome-pairs/solution/
