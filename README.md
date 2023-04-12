@@ -1,4 +1,4 @@
-## Total Problems -> 113
+## Total Problems -> 115
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -228,3 +228,6 @@
 
  	HW
  		https://leetcode.com/problems/palindrome-pairs/solution/
+ - Apr 12 (hashing)
+	- Total right angled triangles
+	- Longest consecutive sequence
