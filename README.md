@@ -1,4 +1,4 @@
-## Total Problems -> 115
+## Total Problems -> 117
 
 
 - Jan 30 (1.AdvancedProblemsOnArraysAndObjects)
@@ -231,3 +231,7 @@
  - Apr 12 (hashing)
 	- Total right angled triangles
 	- Longest consecutive sequence
+
+ - Apr 14 
+    - Max points in a line
+    - palindrome pairs
